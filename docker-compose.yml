@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+    mysql:
+        container_name: MySql
+        restart: unless-stopped
+        ports:
+            - '3306:3306'
+        image: 'mysql:latest'
