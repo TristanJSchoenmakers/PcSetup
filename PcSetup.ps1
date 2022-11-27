@@ -1,4 +1,4 @@
-# Buckaroo Developer PC Setup Script
+# Script for setting up dev PC
 
 echo "---------------------------------------" 
 echo "      1 - Install applications        |" 
