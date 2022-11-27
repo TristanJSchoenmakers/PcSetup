@@ -1,2 +1,3 @@
-# PcSetups
-Example Powershellscript for setting up the pc for the developer
+Example PowershellScript for setting up a pc for a new developer in a team.
+
+
