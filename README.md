@@ -1,4 +1,10 @@
+<p align="center">
+    <h1 align="center">Pc Setup</h1>
+</p>
+
 This is an example script to help with a quick setup and installation of tools and applications for a new developer in a team.
+
+<br>
 
 ## Getting started
 
