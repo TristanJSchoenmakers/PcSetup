@@ -8,10 +8,11 @@ This is an example script to help with a quick setup and installation of tools a
 
 ## Getting started
 
-### 1 - Make sure you have Winget/App Installer installed through the Microsoft Store
+Prerequisites:
+- git
+- [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/)
 
-
-### 2 - Clone this repository
+### 1 - Clone this repository
 
 Open Powershell in Windows Terminal and run the following command:
 
@@ -19,7 +20,7 @@ Open Powershell in Windows Terminal and run the following command:
 git clone https://github.com/TristanJSchoenmakers/PcSetup.git
 ```
 
-### 3 - Run the Pc Setup script
+### 2 - Run the Pc Setup script
 
 ``` powershell
 .\PcSetup\PcSetup.ps1
